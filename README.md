@@ -1,2 +1,2 @@
 # KamaSutraHaikusBot
-Kama Sutra Haiku Twitter Bot
+A Twitter bot that tweets haikus found in the Kama Sutra
